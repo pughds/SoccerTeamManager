@@ -1,0 +1,6 @@
+c:\users\darrick\documents\visual studio 2013\Projects\SoccerTeamManager\SoccerTeamManager\bin\SoccerTeamManager.dll.config
+c:\users\darrick\documents\visual studio 2013\Projects\SoccerTeamManager\SoccerTeamManager\bin\SoccerTeamManager.dll
+c:\users\darrick\documents\visual studio 2013\Projects\SoccerTeamManager\SoccerTeamManager\bin\SoccerTeamManager.pdb
+c:\users\darrick\documents\visual studio 2013\Projects\SoccerTeamManager\SoccerTeamManager\obj\Debug\SoccerTeamManager.csprojResolveAssemblyReference.cache
+c:\users\darrick\documents\visual studio 2013\Projects\SoccerTeamManager\SoccerTeamManager\obj\Debug\SoccerTeamManager.dll
+c:\users\darrick\documents\visual studio 2013\Projects\SoccerTeamManager\SoccerTeamManager\obj\Debug\SoccerTeamManager.pdb
